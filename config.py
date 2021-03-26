@@ -1,5 +1,5 @@
 {
-  "token": "TOKEN",
+  "token": "1556849815:AAGmdJA-6xXcPj3iOaHD-YsrG7OSo7I94Lw",
   "db": {
     "host": "localhost",
     "port": 27017,
